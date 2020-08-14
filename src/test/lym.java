@@ -1,3 +1,3 @@
 package test;
- class lym {
+public class lym {
 }
